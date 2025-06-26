@@ -11,7 +11,7 @@
 - Git & GitHub
 
 ## 📌 Projects Coming Soon
-- 🎬 Netflix-style Movie Recommender System
+- 🎬 Movie Recommendation System
 - 📈 Student Performance Dashboard
 - 🤖 Jarvis AI Chatbot
 
